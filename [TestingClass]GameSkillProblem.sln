@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSkillProblem", "GameSkillProblem.csproj", "{0F17060F-000B-9A66-EC2F-4A886FABDFC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F17060F-000B-9A66-EC2F-4A886FABDFC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F17060F-000B-9A66-EC2F-4A886FABDFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F17060F-000B-9A66-EC2F-4A886FABDFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F17060F-000B-9A66-EC2F-4A886FABDFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5876667-C12D-443C-A320-F53589893307}
+	EndGlobalSection
+EndGlobal
