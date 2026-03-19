@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameSkillProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+532122ba325c1448261a51c39cd973de9b9fda6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+433a8a1f8d1ab24b1010d713850aeeaf4964d922")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameSkillProblem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameSkillProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
