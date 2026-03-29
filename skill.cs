@@ -140,11 +140,12 @@ namespace GameSkillProblem
         [Obsolete("Use Character class for mana management instead")]
         public int AvailableMana { get; private set; }
 
-        public Skill(int cooldown, int mana, int damage, string? animation = null)
+        public Skill(int cooldown, int mana, int damage, string? target = null, string? animation = null)
         {
             Cooldown = cooldown;
             Mana = mana;
             Damage = damage;
+            Target = target;
             Animation = animation;
             CurrentCooldown = 0;
         }
