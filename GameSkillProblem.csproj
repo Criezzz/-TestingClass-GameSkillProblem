@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="SkillControlFlowTests.cs" />
-    <Compile Remove="BlackBoxTest.cs" />
+    <Compile Remove="GameSkillProblem.Tests/**/*.cs" />
   </ItemGroup>
 
 </Project>

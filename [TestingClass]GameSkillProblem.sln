@@ -4,6 +4,8 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSkillProblem", "GameSkillProblem.csproj", "{0F17060F-000B-9A66-EC2F-4A886FABDFC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSkillProblem.Tests", "GameSkillProblem.Tests\GameSkillProblem.Tests.csproj", "{1A2B3C4D-5E6F-7890-ABCD-EF1234567890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{0F17060F-000B-9A66-EC2F-4A886FABDFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F17060F-000B-9A66-EC2F-4A886FABDFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F17060F-000B-9A66-EC2F-4A886FABDFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2B3C4D-5E6F-7890-ABCD-EF1234567890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2B3C4D-5E6F-7890-ABCD-EF1234567890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2B3C4D-5E6F-7890-ABCD-EF1234567890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2B3C4D-5E6F-7890-ABCD-EF1234567890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

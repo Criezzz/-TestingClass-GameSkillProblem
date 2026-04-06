@@ -150,7 +150,7 @@ namespace GameSkillProblem
             CurrentCooldown = 0;
         }
 
-        internal void SetCurrentCooldown(int value)
+        public void SetCurrentCooldown(int value)
         {
             CurrentCooldown = value;
         }
